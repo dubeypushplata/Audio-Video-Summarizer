@@ -68,6 +68,6 @@ hist_threshold = 0.6 # Scene change sensitivity (0-1)
 This is an active research/development project. All code is provided as-is without warranty.  
 For usage inquiries, please open an issue.
 
-[⭐ Star this project]() to stay updated on improvements!
+[⭐ Star this project](https://github.com/dubeypushplata/Audio-Video-Summarizer.git) to stay updated on improvements!
 ---
-❤️ **Enjoy this project?** Help others discover it by [giving a star]()!
+❤️ **Enjoy this project?** Help others discover it by [giving a star](https://github.com/dubeypushplata/Audio-Video-Summarizer.git)!
